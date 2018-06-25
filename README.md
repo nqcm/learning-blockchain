@@ -5,13 +5,13 @@ Resources to learn **Blockchain Technology** and it's applications.
 ## Table of Contents
 
 * [How to Collaborate](#how-to-collaborate)
-* [Baiscs](#basics)
-* [Courses](#courses)
+* [Basics](#basics)
+* [Courses](#introductory-courses)
 * [Advance Courses](#advance-courses)
 * [Tutorials](#tutorials)
-* [Articles & Blogs](#articles--blogs)
+* [Articles and Blogs](#articles-and-blogs)
 * [Books](#books)
-* [Frameworks and Libraries](#frameworks--libraries)
+* [Frameworks and Libraries](#frameworks-and-libraries)
 * [Communities](#communities)
 * [Podcasts](#podcasts)
 * [Slides](#slides)
