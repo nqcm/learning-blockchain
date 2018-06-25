@@ -6,7 +6,7 @@ Resources to learn **Blockchain Technology** and it's applications.
 
 * [How to Collaborate](#how-to-collaborate)
 * [Basics](#basics)
-* [Courses](#introductory-courses)
+* [Introductory Courses](#introductory-courses)
 * [Advance Courses](#advance-courses)
 * [Tutorials](#tutorials)
 * [Articles and Blogs](#articles-and-blogs)
@@ -92,6 +92,12 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 
 
 ## Talks
+
+1. [TED Talk - The Blockchain Explained Simply](https://www.youtube.com/watch?v=KP_hGPQVLpA)
+1. [TED Talk - The Potential for Blockchain](https://www.ted.com/talks/mike_schwartz_the_potential_of_blockchain)
+1. [TED Talk - How the Blockchain will Radically Transform the Economy](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy)
+1. [TED Talk - How the Blockchain is Changing Money and Business](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business)
+1. [TED Talk - We've Stopped Trusting Institutions and Started Trusting Strangers](https://www.ted.com/talks/rachel_botsman_we_ve_stopped_trusting_institutions_and_started_trusting_strangers?language=en)
 
 
 ## More Useful Links
