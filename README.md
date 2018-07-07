@@ -24,6 +24,8 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 
 ## Basics
 
+1. [Blockchain Glossary for Beginners](https://www.blockchainsemantics.com/blog/blockchain-glossary-for-beginners/)
+1. [A comprehensive collection of blockchain related content](http://satoshilinks.com/)
 1. [Blockchain 101 - A visual demo](https://www.youtube.com/watch?v=wqg9ZQKnono&feature=youtu.be)
 1. [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 1. [An Introduction to Ethereum](https://www.toptal.com/ethereum#hiring-guide)
@@ -86,6 +88,12 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 1. [Ethereum/Web3.js on Gitter](https://gitter.im/ethereum/web3.js)
 
 ## Podcasts
+1. [Unchained](https://www.forbes.com/podcasts/unchained/#21d9ffb65b4f)
+1. [Future Thinkers](https://futurethinkers.org/decentralization/)
+1. [Epicenter](https://epicenter.tv/)
+1. [The Let's Talk Bitcoin Network](https://itunes.apple.com/us/podcast/the-lets-talk-bitcoin-network/id640581455?mt=2)
+1. [Coin Mastery](https://itunes.apple.com/us/podcast/coin-mastery-building-your-cryptocurrency-empire/id1251624136?mt=2)
+
 
 
 ## Slides
