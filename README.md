@@ -69,7 +69,7 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 
 
 ## Articles and Blogs
-[Dangerous solidity hacks](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
+1. [Dangerous solidity hacks](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
 
 ## Books
 
