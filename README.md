@@ -25,7 +25,7 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 ## Basics
 
 1. [Blockchain Glossary for Beginners](https://www.blockchainsemantics.com/blog/blockchain-glossary-for-beginners/)
-1. [A comprehensive collection of blockchain related content](http://satoshilinks.com/)
+1. [A Comprehensive Collection of Blockchain Related Content](http://satoshilinks.com/)
 1. [Blockchain 101 - A visual demo](https://www.youtube.com/watch?v=wqg9ZQKnono&feature=youtu.be)
 1. [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 1. [An Introduction to Ethereum](https://www.toptal.com/ethereum#hiring-guide)
@@ -70,6 +70,9 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 
 ## Articles and Blogs
 
+1. [Beginner’s Guide Series on Cryptoassets](https://medium.com/@linda.xie/beginners-guide-series-on-cryptoassets-d897535d887)
+1. [Designing a Decentralized Profile dApp](https://uxdesign.cc/designing-a-decentralized-profile-dapp-ab12ead4ab56)
+
 
 ## Books
 
@@ -93,6 +96,7 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 1. [Epicenter](https://epicenter.tv/)
 1. [The Let's Talk Bitcoin Network](https://itunes.apple.com/us/podcast/the-lets-talk-bitcoin-network/id640581455?mt=2)
 1. [Coin Mastery](https://itunes.apple.com/us/podcast/coin-mastery-building-your-cryptocurrency-empire/id1251624136?mt=2)
+1. [Crypto Radio](http://cryptoradio.io/)
 
 
 
@@ -106,6 +110,7 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 1. [TED Talk - How the Blockchain will Radically Transform the Economy](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy)
 1. [TED Talk - How the Blockchain is Changing Money and Business](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business)
 1. [TED Talk - We've Stopped Trusting Institutions and Started Trusting Strangers](https://www.ted.com/talks/rachel_botsman_we_ve_stopped_trusting_institutions_and_started_trusting_strangers?language=en)
+1. [An Intro to Crypto: Building Blocks](https://www.youtube.com/watch?time_continue=58&v=2dgdGWyJoK4)
 
 
 ## More Useful Links
