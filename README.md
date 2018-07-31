@@ -72,7 +72,7 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 
 1. [Beginner’s Guide Series on Cryptoassets](https://medium.com/@linda.xie/beginners-guide-series-on-cryptoassets-d897535d887)
 1. [Designing a Decentralized Profile dApp](https://uxdesign.cc/designing-a-decentralized-profile-dapp-ab12ead4ab56)
-
+1. [Dangerous Solidity Hacks](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
 
 ## Books
 
