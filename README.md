@@ -4,19 +4,19 @@ Resources to learn **Blockchain Technology** and it's applications.
 
 ## Table of Contents
 
-* [How to Collaborate](#how-to-collaborate)
-* [Basics](#basics)
-* [Introductory Courses](#introductory-courses)
-* [Advance Courses](#advance-courses)
-* [Tutorials](#tutorials)
-* [Articles and Blogs](#articles-and-blogs)
-* [Books](#books)
-* [Frameworks and Libraries](#frameworks-and-libraries)
-* [Communities](#communities)
-* [Podcasts](#podcasts)
-* [Slides](#slides)
-* [Talks](#talks)
-* [More Useful Links](#more-useful-links)
+- [How to Collaborate](#how-to-collaborate)
+- [Basics](#basics)
+- [Introductory Courses](#introductory-courses)
+- [Advance Courses](#advance-courses)
+- [Tutorials](#tutorials)
+- [Articles and Blogs](#articles-and-blogs)
+- [Books](#books)
+- [Frameworks and Libraries](#frameworks-and-libraries)
+- [Communities](#communities)
+- [Podcasts](#podcasts)
+- [Slides](#slides)
+- [Talks](#talks)
+- [More Useful Links](#more-useful-links)
 
 ## How to Collaborate
 
@@ -24,12 +24,11 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 
 ## Basics
 
-1. [Blockchain Glossary for Beginners](https://www.blockchainsemantics.com/blog/blockchain-glossary-for-beginners/)
+1. [Blockchain Glossary for Beginners](https://blockchainhub.net/blockchain-glossary/)
 1. [A Comprehensive Collection of Blockchain Related Content](http://satoshilinks.com/)
 1. [Blockchain 101 - A visual demo](https://www.youtube.com/watch?v=wqg9ZQKnono&feature=youtu.be)
 1. [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 1. [An Introduction to Ethereum](https://www.toptal.com/ethereum#hiring-guide)
-
 
 ## Introductory Courses
 
@@ -40,7 +39,6 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 1. [Blockchain Theory 101](https://www.udemy.com/blockchain-theory-101/?siteID=JVFxdTr9V80-e55oGKo5gxRnGlQhBSvZVQ&LSNPUBID=JVFxdTr9V80)
 1. [Introduction to Cryptocurrencies and Blockchain](https://www.udemy.com/introduction-to-cryptocurrencies/?siteID=JVFxdTr9V80-Z_1QLE6XbaDd6JIJaG9h8Q&LSNPUBID=JVFxdTr9V80)
 1. [Ethereum for Beginners](https://www.udemy.com/blockchain-application/?siteID=JVFxdTr9V80-BQ2ToBKYvmh0Q2tYEwuY8Q&LSNPUBID=JVFxdTr9V80)
-
 
 ## Advance Courses
 
@@ -67,7 +65,6 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 1. [Blockchain IoT Project](https://github.com/blockchain-IoT/Motoro)
 1. [Truffle Official Tutorials](https://truffleframework.com/tutorials/)
 
-
 ## Articles and Blogs
 
 1. [Beginner’s Guide Series on Cryptoassets](https://medium.com/@linda.xie/beginners-guide-series-on-cryptoassets-d897535d887)
@@ -79,29 +76,27 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 1. [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 1. [Solidity Programming Essentials](https://www.amazon.com/gp/product/1788831381/)
 
-## Frameworks and Libraries
+## Frameworks, Libraries, and SDKs
 
 1. [Truffle](https://truffleframework.com/)
+1. [OpenZeppelin](https://openzeppelin.com/sdk/)
 
 ## Communities
 
+1. [r/BlockChain](https://www.reddit.com/r/BlockChain/)
 1. [Ethereum subReddit](https://www.reddit.com/r/ethdev/)
 1. [Ethereum/Solidity on Gitter](https://gitter.im/ethereum/solidity)
 1. [Ethereum Tutorials on Gitter](https://gitter.im/ethereum/tutorials)
 1. [Ethereum/Web3.js on Gitter](https://gitter.im/ethereum/web3.js)
 
 ## Podcasts
+
 1. [Unchained](https://www.forbes.com/podcasts/unchained/#21d9ffb65b4f)
 1. [Future Thinkers](https://futurethinkers.org/decentralization/)
 1. [Epicenter](https://epicenter.tv/)
 1. [The Let's Talk Bitcoin Network](https://itunes.apple.com/us/podcast/the-lets-talk-bitcoin-network/id640581455?mt=2)
 1. [Coin Mastery](https://itunes.apple.com/us/podcast/coin-mastery-building-your-cryptocurrency-empire/id1251624136?mt=2)
 1. [Crypto Radio](http://cryptoradio.io/)
-
-
-
-## Slides
-
 
 ## Talks
 
@@ -111,6 +106,5 @@ Just send a pull request or open an [issue](https://github.com/nqcm/learning-blo
 1. [TED Talk - How the Blockchain is Changing Money and Business](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business)
 1. [TED Talk - We've Stopped Trusting Institutions and Started Trusting Strangers](https://www.ted.com/talks/rachel_botsman_we_ve_stopped_trusting_institutions_and_started_trusting_strangers?language=en)
 1. [An Intro to Crypto: Building Blocks](https://www.youtube.com/watch?time_continue=58&v=2dgdGWyJoK4)
-
 
 ## More Useful Links
